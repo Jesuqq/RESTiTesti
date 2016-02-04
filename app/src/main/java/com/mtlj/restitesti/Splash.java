@@ -7,5 +7,6 @@ public class Splash {
 
 //    Splash screen
 //    testi testi
+//    Tästä tulee splash screen
 
 }
