@@ -6,5 +6,6 @@ package com.mtlj.restitesti;
 public class Splash {
 
 //    Splash screen
+//    testi testi
 
 }
