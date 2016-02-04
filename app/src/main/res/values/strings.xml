@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RESTiTesti</string>
+    <string name="queryButton">Test query!</string>
+</resources>
